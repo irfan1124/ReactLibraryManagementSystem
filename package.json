@@ -24,6 +24,7 @@
     "babel-preset-react": "^6.24.1",
     "json-loader": "^0.5.7",
     "nodemon": "^1.18.3",
+    "sequelize-cli": "^4.0.0",
     "style-loader": "^0.21.0",
     "webpack": "^4.16.3",
     "webpack-cli": "^3.1.0"
@@ -33,9 +34,11 @@
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "helmet": "^3.13.0",
+    "mysql2": "^1.6.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router-config": "^1.0.0-beta.4",
-    "react-router-dom": "^4.3.1"
+    "react-router-dom": "^4.3.1",
+    "sequelize": "^4.38.0"
   }
 }
